@@ -11,3 +11,6 @@ select: command used to display already existing data.
 Delete: DML command used to erase data from the database objects such as tables.
 
 Insert: Command used to add data into tables.
+
+JOINS: A table join clause is used to combine rows from 2 or more tables based on a related column between them.
+
